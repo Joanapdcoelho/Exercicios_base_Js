@@ -1,8 +1,8 @@
 # Exercicios_base_Js
- Exercícios básicos em Javascript
+ Exercícios básicos em Javascript para aprendizagem da linguagem.
 
  # Exercício 1
- Exibir um alerta
+ Exibir um **alerta**
 
  # Exercício 2
  Mudar o html de um elemento (exibir a data de hoje formatada DD/MM/AAAA)
@@ -11,7 +11,7 @@
  Mudar o atributo de um elemento (ligar e desligar a lâmpada)
 
  # Exercício 4
- Mudar estilo de CSS (aumentar o tamanho do texto)
+ Mudar **estilo de CSS** (aumentar o tamanho do texto)
 
  # Exercício 5
  Chamar funções (exibir o resultado de uma soma)
